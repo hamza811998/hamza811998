@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <p align="center" dir="auto"></p>
 <div align="center" dir="auto">
 <a href="https://github.com/mtalhach?tab=repositories" title="Go to Source">
-<img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza811998;theme=react&amp;border=61dafb&amp;hide_border=true" style="max-width: 100%;"></a>
+<img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza811998&amp;theme=react&amp;border=61dafb&amp;hide_border=true" style="max-width: 100%;"></a>
 <a href="https://github.com/mtalhach?tab=repositories" title="Go to Source">
 <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=hamza811998&amp;show_icons=true&amp;theme=react&amp;border_color=61dafb&amp;hide_border=true" style="max-width: 100%;"></a></div>
 
