@@ -2,7 +2,7 @@
 
 **Reach me at:**
 
-**1.** [Github](https://github.com/hamza811998)"
+**1.** [Github](https://github.com/hamza811998)
     
 **2.** [LinkedIn](https://www.linkedin.com/in/hamza811998/)
 
