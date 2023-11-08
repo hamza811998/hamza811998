@@ -1,5 +1,5 @@
 ## Hi there I am `Hamza Shafiq` 👋
-### [My Portfolio](https://github.com/hamza811998/Portfolio)
+### Check [My Portfolio](https://github.com/hamza811998/Portfolio)
 #### **Reach me at:**
 - [Github](https://github.com/hamza811998)    
 - [LinkedIn](https://www.linkedin.com/in/hamza811998/)
