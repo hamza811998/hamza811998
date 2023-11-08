@@ -2,14 +2,16 @@
 
 **hamza811998/hamza811998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+"# **Name:** *`Hamza Shafiq`*\n",
+    "\n",
+    "**Reach me at:** \n",
+    "1. [Github](https://github.com/hamza811998)\n",
+    "2. [LinkedIn](https://www.linkedin.com/in/hamza811998/)\n",
+    "3. [Facebook](https://www.facebook.com/hamza811998/)\n",
+    "4. [Twitter](https://twitter.com/hamza811998)\n",
+    "5. [Instagram](https://www.instagram.com/hamza811998/)\n",
+    "\n",
+    "**Place your Orders at:** [Fiverr](https://www.fiverr.com/s/agNoNQ)\n",
+    "\n",
+    "**Email:** hamza811998shafiq@gmail.com"
 
