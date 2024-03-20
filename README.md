@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my GitHub Profile! 👋
 ### I am `Hamza Shafiq`
-Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/default.aspx), doing M.S./M.Phil., Mathematics. Currently doing research in the field of **Mathematical Modeling/Mathematical Biology** under the kind supervision of [Dr. Sadia Arshad](https://lahore.comsats.edu.pk/Employees/807). I am interested in all things data and machine learning systems.
+Student at [COMSATS University Islamabad, Lahore](https://lahore.comsats.edu.pk/default.aspx), doing M.S./M.Phil., Mathematics. I've completed my _MS Mathematics_ research in the field of **Mathematical Modeling/Mathematical Biology** under the kind supervision of [Dr. Sadia Arshad](https://lahore.comsats.edu.pk/Employees/807). I am interested in all things data and machine learning systems.
 
 ### Check out [My Portfolio](https://hamza811998.github.io/Portfolio/)
 #### **You can reach me at:**
